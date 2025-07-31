@@ -14,6 +14,4 @@ Sept 2022 - Dec 2022
  insufficient to predict the survival model when a similar disaster occurs. Therefore, if time allows, more
  sample data on different categories should be analyzed together to obtain classifiers with more precision.
 
- Partnered with Jianing Chen
-                Guangping Liu
-                Juncong Zhu
+ Partnered with Jianing Chen, Guangping Liu, Juncong Zhu
